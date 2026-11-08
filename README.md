@@ -6,4 +6,4 @@ Design FPGAs by drawing schematics.
 
 Logix Studio is part of [Open Logix](https://www.openlogix.org/): free, open source tools for FPGA design that install in one step, run on macOS, Windows and Linux, and need no separate toolchain.
 
-Licensed under the [Apache License 2.0](LICENSE).
+Licensed under [MIT](LICENSE-MIT) or the [Apache License 2.0](LICENSE-APACHE), at your option.
