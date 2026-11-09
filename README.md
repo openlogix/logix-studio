@@ -1,6 +1,6 @@
 # Logix Studio
 
-Design FPGAs by drawing schematics.
+Draw your FPGA design.
 
 **Coming Q1 2027.** This repository is a placeholder; the work hasn't started here yet. See the [Logix Studio page](https://www.openlogix.org/studio/) for what's planned.
 
