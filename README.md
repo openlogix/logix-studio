@@ -3,6 +3,8 @@
   <img alt="Logix Studio" src="https://www.openlogix.org/brand/readme/studio-light.svg" height="96">
 </picture>
 
+<br>
+
 [![License: MIT or Apache 2.0](https://img.shields.io/badge/License-MIT%20or%20Apache%202.0-blue)](LICENSE-MIT)
 
 Draw your FPGA design.
